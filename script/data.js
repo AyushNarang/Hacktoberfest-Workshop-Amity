@@ -4,9 +4,9 @@
  *
  * format:
  * 	{
- * 		"name": "Your Name",
- * 		"desc": "What do you do for fun?",
- * 		"github": "You GitHub Handle URL!"
+ * 		"name": "Ayush Narang",
+ * 		"desc": "Programming enthusiast",
+ * 		"github": "https://github.com/AyushNarang"
  * 	}
  */
 const data = `[{
